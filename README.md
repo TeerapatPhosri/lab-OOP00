@@ -1,5 +1,7 @@
 # lab-OOP00
 first repository
 
-Teerapat Phosri
-653450289-3
+name Teerapat Phosri
+id 653450289-3
+
+phone number : none
